@@ -1,0 +1,700 @@
+/* .phangiua{
+  
+   
+   
+} */
+.thongtin{
+    background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(231,221,15,1) 0%, rgba(181,201,205,1) 95%);
+}
+
+.image{
+    
+    display: flex;
+    max-width: 960px;
+   margin: 0 auto;
+   padding-bottom: 20px;
+}
+
+.item1{
+    position: relative;
+    width: 450px;
+    
+}
+
+.image .img1{
+    width: 450px;
+    
+}
+
+.image .img1 img{
+    
+    width: 450px;
+    margin-top: 30px;
+    
+}
+
+.image .img2 img
+{
+    margin-top: 30px;
+   margin-left: 10px;
+    width: 220px;
+    
+}
+
+.image .img3 img{
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 220px;
+   
+}
+
+.image .img4 img{
+    margin-left: 10px;
+    width: 220px;
+    
+}
+
+.image .img5 img{
+    margin-left: 20px;
+}
+
+.small{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image .img5 img{
+    
+    width: 220px;
+    
+}
+
+.thongtin{
+    /* position: absolute; */
+    bottom: 20px;
+    left: 200px;
+}
+
+.link__logo{
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    width: 75px;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    font-weight: 4px;
+    padding: 2px 0;
+    background-color: blue;
+}
+
+.item1 .text1{
+    position: absolute;
+    word-wrap: wrap;
+    bottom: 50px;
+    left: 10px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 10px;
+    text-transform: uppercase;
+}
+
+
+
+
+.item1 .text2{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    color: #fff;
+    font-size: 13px;
+}
+
+.item2{
+    width: 220px;
+    position: relative;
+}
+
+.link__logo2{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    color: white;
+    background: turquoise;
+}
+
+.item2 .text1{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    font-size: 12px;
+    font-weight: 900;
+    color: white;
+    text-transform: uppercase ;
+}
+
+.item2 .text2{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    font-size: 11px;
+    color: white;
+    
+}
+
+.tien p{
+    margin-left: 10px;
+}
+
+.tien .link__logo2{
+    margin-left: 10px;
+}
+
+.mar .link__logo2{
+    position: absolute;
+    top: 10px;
+}
+
+.lik .link__logo2{
+    margin-left: 10px;
+}
+
+.thitruong{
+    display: flex;
+    max-width: 600px;
+    margin-top: 30px;
+    margin-left: 180px;
+    height: 100%;
+    position: relative;
+   
+}
+
+.tongquan__thitruong{
+    max-width: 1180px;
+    display: block;
+}
+
+
+.thitruong__text span,
+.thitruong__phai__text span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.video span{
+    background:#fff; 
+    padding:0 10px; 
+
+}
+
+.thitruong__text .thitruong__p
+{
+    width: 200%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+.video p{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+.thitruong__phai__text p{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+.dautuico .thitruong__ico{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.dautuico span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.thitruong__phai{
+    position: absolute;
+    margin-top: 60px;
+    margin-right: 220px;
+    right: 0;
+    top: 520px;
+}
+.thitruong__phai1{
+    position: relative;
+}
+
+.thitruong__phai1 .logo{
+    position: absolute;
+    top: 30px;
+    right: 70px;
+   
+}
+
+.thitruong__phai1 p{
+    position: absolute;
+    width: 205px;
+    text-align: center;
+    margin-left: 50px;
+    bottom: 20px;
+    font-size: 30px;
+    font-weight: 900;
+    padding: 10px;
+    color: white;
+}
+
+.thitruong__phai1 span{
+    text-align: center;
+}
+
+.thitruong__phai__text{
+    margin-top: 30px;
+}
+
+.thitruong__phai2{
+    position: relative;
+}
+
+.thongtinbaiviet{
+    position: absolute;
+    top: 0;
+    color: white;
+}
+
+.thongtinbaiviet .name{
+    
+    display: flex;
+    align-items: center;
+    margin-top: 70px; 
+}
+
+.thongtinbaiviet .stt{
+    margin: 0 20px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.thongtinbaiviet .text{  
+   font-size: 20px;
+    margin-left: 10px;
+    font-weight: 600;
+    width: 220px;
+}
+
+.thongtinbaiviet .like{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.thongtinbaiviet .like .title{
+    background-color: turquoise;
+    padding: 3px;
+    margin-right: 25px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.thongtinbaiviet .like .view{
+    margin-top: 3px;
+    
+}
+
+
+.baiviet__text{
+    margin-top: 20px;
+}
+
+.baiviet__text .baiviet{
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+
+.baiviet__text .baiviet .sothutu{
+    margin: 0 20px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.baiviet__text .baiviet .chude{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: 600;
+
+}
+
+
+.baiviet__text .baiviet .chude a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+.baiviet__text .luotxem{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
+.baiviet__text .luotxem .ten{
+    background-color: turquoise;
+    padding: 3px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+
+.baiviet__text .luotxem .nguoixem{
+    margin-top: 3px;
+}
+.thitruong__itemtrai{
+    width: 280px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+.thitruong__item1{
+    display: flex;
+}
+
+.thitruong__item1 .detai {
+    
+    margin-left: 10px;
+}
+
+.thitruong__item1 .detai .detai__text{
+    line-height: unset;
+    border: unset;
+   padding-left: unset;
+   text-align: unset;
+   font-size: 18px;
+   font-weight: 700;
+   color: tomato;
+   margin: unset;
+   /* margin-top: 10px; */
+}
+
+.thitruong__item1 .detai .fa-calendar-alt{
+   
+    margin-right: 7px;
+}
+
+.thitruong__item1 .detai .fa-eye{
+   
+    margin-right: 7px;
+}
+.thitruong__text__phai{
+    width: 280px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.dautuico{
+   width: 600px;
+   margin-left: 180px;
+   position: relative;
+}
+
+
+
+.big__img img{
+    width: 600px;
+    
+}
+
+.img__text{
+position: absolute;
+top: 120px;
+margin-left: 20px;
+color: white;
+font-size: 30px;
+font-weight: 700;
+}
+
+.img__items{
+    display: flex;
+    margin-top: 20px;
+}
+
+.img__item__text{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.img__title{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.img__chitiet{
+    margin-top: 10px;
+    font-size: 14px;
+    color: #999;
+    line-height: 1.4;
+}
+
+.video{
+    margin-top: 40px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.video__item{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.video__text{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.phantrang{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.phantrang p{
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #ccc;
+    margin-left: 5px;
+}
+
+.tiendientu{
+    margin-top: 50px;
+}
+
+.dangkibantin{
+    width: 300px;
+    height: 300px;
+    border: 2px solid #333;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.dangki__text{
+    margin-top: 40px;
+    margin-left: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.txt__dangki{
+    margin-left: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.dangkibantin input{
+    margin-left: 40px;
+    padding: 7px 17px;
+    margin-top: 20px;
+    
+}
+
+.dangkibantin button{
+    margin-left: 110px;
+    margin-top: 30px;
+    padding: 7px 15px;
+    border: none;
+    outline: none;
+    background: tomato;
+}
+
+.cuoitrang{
+    background: seagreen;
+    margin-top: 40px;
+}
+
+.tongquan__cuoitrang{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.noibat,
+.moinhat,.lienhe{
+    width: 330px;
+    margin-top: 30px;
+    
+}
+
+/* .title__noibat span{
+    padding:0 10px;
+    color: white;background-color: white;
+    
+}
+
+.title__noibat p{
+    width: 100%; 
+    border-bottom: 1px solid #ddd; 
+    border-right: 1px solid #ddd; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+} */
+
+.title__noibat,.title__moinhat, .title__lienhe{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.thongtin__noibat{
+    display: flex;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.chitiet__noibat{
+    margin-left: 10px;
+}
+
+.chitiet__noibat a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.lienhe__sdt{
+    position: relative;
+}
+
+.lienhe__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+}
+
+.lienhe__sdt p{
+   margin-right: 180px;
+   margin-left: 20px;
+   font-size: 20px;
+   font-weight: 700;
+   color: white;
+}
+
+.lienhe__sdt i{
+    font-size: 20px;
+   font-weight: 700;
+   color: white;
+}
+
+.lienhe__face{
+    position: relative;
+}
+
+.lienhe__face__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__face p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__face i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .lienhe__gmail{
+    position: relative;
+}
+
+.lienhe__gmail__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__gmail p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__gmail i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .lienhe__youtube{
+    position: relative;
+}
+
+.lienhe__youtube__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__youtube p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__youtube i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .boder{
+     width: 100%;
+     border: 1px solid #111;
+ }
+
+ .img__title a{
+     text-decoration: none;
+     color: black;
+ }
+
+ .detai__text a{
+     text-decoration: none;
+     color: black;
+ }
+
+ .video__text a{
+    text-decoration: none;
+    color: black;
+ }

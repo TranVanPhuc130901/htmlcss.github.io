@@ -1,0 +1,31 @@
+.logo__foter{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.foter__lienhe ul{
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+.foter__lienhe{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.foter__lienhe ul li{
+    margin: 0 15px;
+    font-weight: 400;
+    list-style: none;
+    
+}
+
+.foter__lienhe ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.foter__lienhe ul li a:hover{
+    color: tomato;
+}

@@ -1,0 +1,144 @@
+.foter{
+    background: seagreen;
+}
+
+.foter .logo__foter{
+    padding-top: 50px;
+}
+
+.body__thuvienanh{
+    overflow: hidden;
+    padding-top: 50px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.thuvienanh p{
+    width: 100%; 
+    text-align: left; 
+    line-height: 0.1em;
+    margin: 30px 0;
+    font-size: 24px;
+}
+
+
+
+.thuvienanh__items{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+
+.thuvienanh__item{
+    width: 32%;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    box-shadow: -2px 9px 10px 3px #888888;
+    cursor: pointer;
+}
+
+
+.thuvienanh__item img{
+    width: 100%;
+    
+}
+
+.thongtin__hinhanh{
+    display: flex;
+    margin-top: 20px;
+}
+
+.thongtin__hinhanh i{
+    margin-right: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.thuvienanh__item .anh1{
+    height: 180px;
+    object-fit: cover;
+}
+
+.title__anh a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.phantrang{
+    display: flex;
+    justify-content: center;
+    margin-right: 120px;
+    margin-top: 30px;
+}
+
+.phantrang p{
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #ccc;
+    margin-left: 5px;
+}
+
+.warrap{
+    
+        background: rgba(0, 0, 0, 0.6);
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        pointer-events: none;
+    
+}
+
+.close{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.warrap__inner{
+    height: 90%;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+.warrap__inner img{
+    width: 90%;
+    height: 90%;
+   object-position: center;
+   object-fit: cover;
+}
+
+.pre{
+    position: absolute;
+    left: 10px;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.next{
+    position: absolute;
+    right: 10px;
+    font-size: 35px;
+    cursor: pointer;
+
+}
+
+.show{
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.hide{
+    display: none;
+}

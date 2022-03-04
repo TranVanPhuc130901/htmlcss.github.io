@@ -1,0 +1,24 @@
+.video img{
+    margin-left: 100px;
+    margin: 40px 0 40px 100px;
+}
+
+.blog__binhluan{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog__binhluan .bl__trai{
+    font-size: 17px;
+}
+
+.blog__binhluan .bl__phai span{
+    margin-right: 5px;
+}
+
+.blog__binhluan .bl__phai button{
+    padding: 3px 5px; 
+    border-radius: 3px;
+    outline: none;
+}

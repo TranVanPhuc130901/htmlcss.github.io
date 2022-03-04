@@ -1,0 +1,590 @@
+.blog__chitiet__body{
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,244,18,1) 0%, rgba(243,250,251,1) 90%);
+    padding-top: 50px;
+}
+
+.blog__chitiet__thongtin{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.body__chitiet__trai{
+    width: 680px;
+}
+
+.body__chitiet__title h1{
+    width: 580px;
+    line-height: 1.6;
+}
+
+.body__chitiet__time{
+    display: flex;
+    margin-top: 20px;
+}
+
+.body__chitiet__time .time{
+    margin-right: 20px;
+}
+
+.body__chitiet__time .view i{
+    margin-right: 10px;
+}
+
+.body__chitiet__mxh{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body__chitiet__mxh .mxh__lienhe{
+    display: flex;
+    align-items: center;
+    
+}
+
+.body__chitiet__mxh .mxh__lienhe .item{
+    margin: 0 4px;
+}
+
+.body__chitiet__mxh .face{
+    background-color: rgb(15, 15, 146) ;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.body__chitiet__mxh .face i{
+    color: #fff;
+}
+
+.body__chitiet__mxh .face a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+
+.body__chitiet__mxh .tweet{
+    background-color: rgb(2, 169, 211) ;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.body__chitiet__mxh .tweet i{
+    color: #fff;
+    margin-right: 4px;
+}
+
+.body__chitiet__mxh .tweet a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.body__chitiet__mxh .google{
+    background-color: tomato;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.body__chitiet__mxh .google a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.body__chitiet__mxh .pinteres{
+    background-color: rgb(228, 21, 21);
+    padding: 3px 5px;
+    border-radius: 3px;
+    
+}
+
+.body__chitiet__mxh .pinteres a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.body__chitiet__mxh .chat{
+    background-color: tomato;
+    padding: 7px 30px;
+    border-radius: 5px;
+}
+
+.body__chitiet__mxh .chat i{
+    margin-right: 6px;
+}
+
+.body__chitiet__mxh .chat a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.body__chitiet__img{
+    margin-top: 50px;
+    width: 570px;
+}
+
+.body__chitiet__text{
+    margin-top: 30px;
+    line-height: 1.6;
+}
+
+.body__vote{
+    margin-top: 50px;
+}
+
+.body__vote a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.body__vote i{
+    color: yellow;
+    font-size: 30px;
+}
+
+.blog__binhluan{
+    width: 1000px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog__binhluan .bl__trai{
+    font-size: 17px;
+}
+
+.blog__binhluan .bl__phai span{
+    margin-right: 5px;
+}
+
+.blog__binhluan .bl__phai button{
+    padding: 3px 5px; 
+    border-radius: 3px;
+    outline: none;
+}
+.gachngang{
+    border: 1px solid rgb(231, 213, 213);
+    margin-top: 20px;
+    
+    margin-bottom: 20px;
+}
+
+
+.blog__comment{
+    display: flex;
+}
+
+.comment__user img{
+    width: 80px;
+}
+
+.input__comment input{
+    width: 600px;
+    height: 65px;
+    padding: 10px;
+}
+
+.comment__login{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    height: 50px;
+    border: 1px solid #999;
+}
+
+.comment__login input{
+    width: unset;
+}
+
+.comment__login .btn__input{
+    padding: 0 30px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+    background-color: cyan;
+    outline: none;
+    border: none;
+}
+
+.coment__check{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.coment__check input{
+    margin-right: 15px;
+}
+
+.coment__f{
+    margin-top: 20px;
+}
+
+.coment__f i{
+    margin-right: 10px;
+    padding: 2px 4px;
+    background-color: rgb(42, 42, 219);
+    color: white;
+}
+
+.thamkhao{
+    display: flex;
+    margin-top: 30px;
+}
+
+.thamkhao .thamkhaotruoc{
+    margin-right: 30px;
+}
+
+.thamkhao a{
+    font-size: 19px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.text__truoc{
+    margin-bottom: 15px;
+}
+
+.thamkhaotruoc button, .thamkhaosau button{
+    text-align: center;
+    padding: 5px 100px;
+    border-radius: 5px;
+    background-color: coral;
+    border: none;
+}
+.thamkhaosau button{
+    margin-left: 110px;
+}
+
+
+.baivietthich{
+    margin-top: 30px;
+}
+
+.like__text{
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.like__baiviet{
+    display: flex;
+    margin-bottom: 20px;
+  
+}
+.like__trai img{
+    width: 100px;
+    height: 100px;
+}
+
+.like__trai{
+    display: flex;
+    padding-right: 30px;
+}
+
+.like__trai span{
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 16px;
+    width: 280px;
+}
+
+
+
+
+.like__phai{
+    display: flex;
+}
+
+.like__phai img{
+    width: 100px;
+    height: 100px;
+}
+
+.like__phai span{
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 16px;
+    width: 280px;
+}
+
+
+.btn__all{
+    margin-left: 100px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.btn__all button{
+    padding: 4px 8px;
+}
+
+.blog__ganday .ganday__text{
+    width: 100%; 
+   text-align: left; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+   font-size: 20px;
+}
+
+.blog__ganday span{
+    background:yellow; 
+    padding:0 10px; 
+}
+
+.blog__body__phai{
+    width: 350px;
+    position: absolute;
+    top: 260px;
+    right: 0;
+    margin-right: 100px;
+}
+
+.blog__phai__ganday{
+    display: flex;
+    margin-top: 30px;
+}
+
+.blog__phai__title{
+    margin-left: 15px;
+}
+
+.blog__phai__title a{
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+.thitruong__phai__text span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.thitruong__phai__text p{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+.thitruong__phai__text{
+    margin-top: 30px;
+}
+
+.thitruong__phai2{
+    position: relative;
+}
+
+.thongtinbaiviet{
+    position: absolute;
+    top: 0;
+    color: white;
+}
+
+.thongtinbaiviet .name{
+    
+    display: flex;
+    align-items: center;
+    margin-top: 70px; 
+}
+
+.thongtinbaiviet .stt{
+    margin: 0 20px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.thongtinbaiviet .text{  
+   font-size: 20px;
+    margin-left: 10px;
+    font-weight: 600;
+    width: 220px;
+}
+
+.thongtinbaiviet .like{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.thongtinbaiviet .like .title{
+    background-color: turquoise;
+    padding: 3px;
+    margin-right: 25px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.thongtinbaiviet .like .view{
+    margin-top: 3px;
+    
+}
+
+.baiviet__text{
+    margin-top: 20px;
+}
+
+.baiviet__text .baiviet{
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+
+.baiviet__text .baiviet .sothutu{
+    margin: 0 20px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.baiviet__text .baiviet .chude{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: 600;
+
+}
+
+
+.baiviet__text .baiviet .chude a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+.baiviet__text .luotxem{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
+.baiviet__text .luotxem .ten{
+    background-color: turquoise;
+    padding: 3px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+
+.baiviet__text .luotxem .nguoixem{
+    margin-top: 3px;
+}
+
+.foter{
+    background: seagreen;
+}
+
+.foter .logo__foter{
+    padding-top: 50px;
+}
+
+.lienhe__sdt{
+    position: relative;
+}
+
+.lienhe__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+}
+
+.chitiet__lienhe{
+    margin-top: 40px;
+}
+
+
+.lienhe__face{
+    position: relative;
+}
+
+.lienhe__face__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__face p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__face i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .lienhe__gmail{
+    position: relative;
+}
+
+.lienhe__gmail__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__gmail p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__gmail i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .lienhe__youtube{
+    position: relative;
+}
+
+.lienhe__youtube__thongtin{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px; 
+
+}
+
+.lienhe__youtube p{
+    margin-right: 180px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+ 
+ .lienhe__youtube i{
+     font-size: 20px;
+    font-weight: 700;
+    color: white;
+ }
+
+ .txt__lienhe span{
+    background: #fff;
+}
+
+.txt__lienhe{
+    margin-top: 30px;
+}

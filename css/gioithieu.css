@@ -1,0 +1,104 @@
+.foter{
+    background: seagreen;
+}
+
+.foter .logo__foter{
+    padding-top: 50px;
+}
+
+.gioithieu p{
+    width: 100%; 
+   text-align: left; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 30px 0 20px;
+   font-size: 30px;
+   font-weight: 700;
+}
+
+.gioithieu span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.body__gioithieu {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.mxh__lienhe{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.mxh__lienhe .item{
+    margin: 0 4px;
+}
+
+.mxh__lienhe .face{
+    background-color: rgb(15, 15, 146) ;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.mxh__lienhe .face i{
+    color: #fff;
+}
+
+.mxh__lienhe .face a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+
+.mxh__lienhe .tweet{
+    background-color: rgb(2, 169, 211) ;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.mxh__lienhe .tweet i{
+    color: #fff;
+    margin-right: 4px;
+}
+
+.mxh__lienhe .tweet a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.mxh__lienhe .google{
+    background-color: tomato;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.mxh__lienhe .google a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.mxh__lienhe .pinteres{
+    background-color: rgb(228, 21, 21);
+    padding: 3px 5px;
+    border-radius: 3px;
+    
+}
+
+.mxh__lienhe .pinteres a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.txt p{
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.img{
+    margin-top: 30px;
+   margin-left: 150px;
+}

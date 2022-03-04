@@ -1,0 +1,85 @@
+.foter{
+    background: seagreen;
+}
+
+.foter .logo__foter{
+    padding-top: 50px;
+}
+
+.body__thuvienanh{
+    overflow: hidden;
+    padding-top: 50px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.thuvienanh p{
+    width: 100%; 
+    text-align: left; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    font-size: 24px;
+}
+
+.thuvienanh span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.thuvienanh__items{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+
+.thuvienanh__item{
+    width: 32%;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    box-shadow: -2px 9px 10px 3px #888888;
+}
+
+
+.thuvienanh__item img{
+    width: 100%;
+}
+
+.thongtin__hinhanh{
+    display: flex;
+    margin-top: 20px;
+}
+
+.thongtin__hinhanh i{
+    margin-right: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.thuvienanh__item .anh1{
+    height: 180px;
+    object-fit: cover;
+}
+
+.title__anh a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.phantrang{
+    display: flex;
+    justify-content: center;
+    margin-right: 120px;
+    margin-top: 30px;
+}
+
+.phantrang p{
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #ccc;
+    margin-left: 5px;
+}
